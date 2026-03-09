@@ -2,6 +2,7 @@
 
 학교용 GitHub ID : dragonfe73@chungbuk.ac.kr
              PW : 느낌2유트론0229
+Local working folder : (base) jeong-yongcheol@JAVISMACM4 2_git_cbnu
 CBNU_JYC Github(Remote Repository)에 올리기
  : https://github.com/CBNU-JYC/git_practice.git
 
