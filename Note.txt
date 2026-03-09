@@ -1,0 +1,19 @@
+참고 유튜브 : https://youtu.be/AOn6UUscqQw?si=eo5WK_GSbmj-4LSi
+
+학교용 GitHub ID : dragonfe73@chungbuk.ac.kr
+             PW : 느낌2유트론0229
+CBNU_JYC Github(Remote Repository)에 올리기
+ : https://github.com/CBNU-JYC/git_practice.git
+
+- [ ] 준비물:git scm, pycharm, github.com id
+- [ ] pycharm에서 git에 올릴 프로젝트 불러오기(새 project만들기)
+- [ ] github.com에서 새 repository만들기
+- [ ] git init하기
+- [ ] .py파일 하나 만들기
+- [ ] git add하기
+- [ ] git commit하기
+- [ ] git remote에 github.com에서 만들 새 repository 주소 등록하기
+- [ ] git push하기
+- [ ] 올라갔는지 확인하기
+- [ ] collaborator 추가 하기
+- [ ] -Areum120
